@@ -34,3 +34,25 @@ Anddd here's a little drawing of how I would make the chicken... next time, imma
 ![image](https://github.com/user-attachments/assets/2a4c3c05-2d37-4c03-9d20-419a3fd5612f)
 
 [end of day 1 <3]
+
+## Day 2
+Weeeel, I've been procrastinating a bit lately. I decided that enough is enough and today, I will start with the bom, pcb, etc. I did some brainstorming on paper and I am going to use a Raspberry Pi Zero 2w I got from high seas! (:D) and here's a little pic of the chicken i did in figma! I will refer to this for future things. The idea is to make the back acrylic and use some colorful jumper wires for some of the parts!!
+
+![image](https://github.com/user-attachments/assets/5b105674-1907-42e1-b1ce-7fceef57da46)
+
+### Components and link
+I'm going to find components on Cytron for now, it will be expensive but its easy to find, and I will find the exact same stuff on Taobao for cheaper :3
+
+- Speaker: https://www.adafruit.com/product/1314
+- Amplifier: https://www.adafruit.com/product/3006
+- LED thing: https://my.cytron.io/p-1w-high-power-led-beads-6000k-cool-white
+- Screen (oled?): -
+- Joystick: https://my.cytron.io/p-2-axis-analog-and-button-ps2-joystick-module
+- Button: (maybe the one from solder but make a cap and use springs?)
+- Servo: (already owned)
+- Touch sensor: (owned)
+- Toggle switch?: https://my.cytron.io/p-hl8211-push-to-on-button
+- Battery: https://my.cytron.io/p-3.7v-5000mah-li-ion-battery-with-jst-ph2.0
+- Charge controller: https://my.cytron.io/p-lithium-battery-tp4056-1a-usb-c-charger-with-protection
+
+This would wrap up for day 2, I spent ~1 hour researching and drawing the thing! There's also a bit ~1 hour thinking these days but might not count that...
