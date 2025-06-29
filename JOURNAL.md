@@ -56,3 +56,10 @@ I'm going to find components on Cytron for now, it will be expensive but its eas
 - Charge controller: https://my.cytron.io/p-lithium-battery-tp4056-1a-usb-c-charger-with-protection
 
 This would wrap up for day 2, I spent ~1 hour researching and drawing the thing! There's also a bit ~1 hour thinking these days but might not count that...
+
+## Day 3
+ahhh I've been procrastinating (and working on another project maybe), finally tho I've decided to start and make a schematic...
+
+![image](https://github.com/user-attachments/assets/78780181-0648-4b01-b69b-2f996a2329fa)
+
+tbh idk why i need a pcb... it would be cool tho.. but I feel like i dont need to sometimes, everything can be connected with a jumper wire. i figured that it would make this look cool and i'll try and keep it under 100mmx100mm so that its cheap. (wip) i also switched the button to a key
